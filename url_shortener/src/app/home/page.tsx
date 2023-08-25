@@ -23,10 +23,10 @@ const page = () => {
             type="text"
             className="mx-2 relative my-2 rounded-md h-10 w-full"
           />
-          <div className="relative top-5 left-0 text-black">
+          <button className="relative top-5 left-0 text-black">
             {" "}
             {<TbCopy size={24} />}
-          </div>
+          </button>
         </div>
       </div>
     </>
